@@ -1,0 +1,5 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter":{"platforms":{"android":{"default":{"projectId":"order-management-app-ab92a","appId":"1:442332212555:android:912a82cf3103858adb4cce","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"order-management-app-ab92a","configurations":{"android":"1:442332212555:android:912a82cf3103858adb4cce","ios":"1:442332212555:ios:1510351dc79ea9afdb4cce","macos":"1:442332212555:ios:1510351dc79ea9afdb4cce","web":"1:442332212555:web:8166116b1c0e05ebdb4cce","windows":"1:442332212555:web:c5dd76f9939570c9db4cce"}}}}}}

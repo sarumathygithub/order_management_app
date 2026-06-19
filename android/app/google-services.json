@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442332212555",
+    "project_id": "order-management-app-ab92a",
+    "storage_bucket": "order-management-app-ab92a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442332212555:android:912a82cf3103858adb4cce",
+        "android_client_info": {
+          "package_name": "com.example.order_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifIh9M2hW164Rl45-gE5etsE5aJ7B1tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442332212555:android:75aa6225155f656adb4cce",
+        "android_client_info": {
+          "package_name": "com.example.order_management.order_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAifIh9M2hW164Rl45-gE5etsE5aJ7B1tM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
